@@ -1,0 +1,36 @@
+﻿  Soduko.cpp
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(64,37): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(65,37): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(71,38): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(126,98): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(126,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(132,98): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(132,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(152,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(161,35): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+C:\Users\trevo\OneDrive\Desktop\Soduko\Soduko\Soduko.cpp(168,35): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  Soduko.vcxproj -> C:\Users\trevo\OneDrive\Desktop\Soduko\Debug\Soduko.exe
